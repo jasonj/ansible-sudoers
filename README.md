@@ -1,7 +1,7 @@
 Sudoers
 ========
 
-This Ansible role lets safely edit sudoers on the specified host
+This Ansible role lets you safely edit sudoers on the specified host
 
 Requirements
 ------------
